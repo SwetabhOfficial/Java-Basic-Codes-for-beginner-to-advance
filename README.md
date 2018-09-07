@@ -1,0 +1,15 @@
+# Java Basic Codes for Beginner | Learn Java Programming with examples.
+Hello there! 
+This codes would help you learn Java. I am going to share beginner codes on various topics of Java including 
+tutorials on core java and advanced Java concepts and Java programming examples. This free Java codes
+contains the links of all the tutorials in a systematic order starting from beginner’s level to the advanced
+topics. Whether you are a college student looking for learn Java programming or a company employee learning advanced
+Java topics for building an application in Java, this Java tutorial would definitely be useful for you. Let’s start learning.
+
+
+
+
+## Donate GitCodeSwetabh!
+Your support will help me to write more codes for free software and tools.
+
+<noscript><a href="https://donorbox.org/donate-gitcodeswetabh"><img alt="Donate using Donorbox" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
