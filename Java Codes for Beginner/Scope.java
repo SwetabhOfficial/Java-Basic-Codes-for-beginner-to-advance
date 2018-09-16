@@ -1,3 +1,7 @@
+/*This program will show scopes in Java
+Date - 16 Sep 2018
+Author - @swetabhsuman8
+ScopeInJava*/
 public class Scope {
     //because x is declared outside of any method, it is in Scope to all methods
     //any method can access x
